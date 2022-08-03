@@ -1,0 +1,36 @@
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.copyright_footer{
+    background-color: rgb(2, 54, 66);
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    color: azure;
+    line-height: 3;
+    text-align: center;
+    font-family: 'Rubik Bubbles', cursive;
+}
+
+canvas{
+    border: 2px solid white;
+    box-shadow: 5px 5px 5px white;
+    border-radius: 10px;
+    margin-top: 100px;
+    width: 350px;
+    height: 350px;
+}
+
+.heading{
+    width: 100%;
+    margin:0px;
+    font-size: 40px;
+    color: aliceblue;
+    font-family: 'Blaka Hollow', cursive;
+}
+
+#result, #status{
+    font-size:18px;
+}
